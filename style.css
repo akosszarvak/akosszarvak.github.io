@@ -62,6 +62,7 @@ body {
 
 .caption h3 {
   font-size: 3rem;
+
   text-shadow: 0.1rem 0.1rem 0.5rem black;
 }
 
@@ -71,7 +72,7 @@ body {
   padding: 0.6rem 1.3rem;
   font-size: 1.1rem;
   z-index: 1;
-
+  color: black;
   border: #644e5b;
 }
 
